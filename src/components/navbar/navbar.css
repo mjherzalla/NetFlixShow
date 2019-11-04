@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+     
+  }
+  
+  .navbar li {
+    float: left;
+  }
+  .navbar li:nth-child(1n+2) {
+    float: right;
+  }
+
+  
+  .navbar li a {
+    display: block;
+    color: rgba(255, 255, 255, 0.897);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .navbar li a:hover {
+   color:white;
+  }
+  img{
+      width:100px;
+  }
