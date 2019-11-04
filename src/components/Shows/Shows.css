@@ -126,6 +126,9 @@ iframe{
     padding: 5px;
     border-bottom: rgb(82, 79, 79) 1px solid;
 }
+.episodInfo img{
+   width:50px;
+}
 .rating{
     float:right;
     color:gold;

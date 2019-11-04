@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactPlayer from 'react-player'
 import ShowPervBtn from './ShowPervModal'
 import EpisodeList from './EpisodeList'
 const ShowsList = (props) => {
