@@ -25,7 +25,7 @@ class ShowPervBtn extends React.Component {
       return (
         <div>
         
-          <i onClick={this.handleOpenModal} className="far fa-play-circle"></i>
+          <i onClick={this.handleOpenModal} className="far fa-play-circle prvBtn"></i>
           <Modal 
              isOpen={this.state.showModal}
              contentLabel="Perview"
